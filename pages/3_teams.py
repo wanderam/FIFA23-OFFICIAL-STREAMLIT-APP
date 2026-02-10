@@ -1,5 +1,6 @@
 import streamlit as st
 
+#Configurando a página do app
 st.set_page_config(
     page_title='Teams',
     page_icon=':soccer:',
