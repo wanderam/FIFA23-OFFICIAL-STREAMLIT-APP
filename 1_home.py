@@ -39,3 +39,4 @@ st.markdown(
     análise de clubes, posicionamento dos jogadores e desenvolvimento dos jogadores ao longo do tempo.
 """
 )
+
