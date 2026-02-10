@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import webbrowser
 
-#Link do vídeo: https://youtu.be/0lYBYYHBT5k?t=1723
 
 st.set_page_config(
     page_title='Home',
@@ -40,5 +39,3 @@ st.markdown(
     análise de clubes, posicionamento dos jogadores e desenvolvimento dos jogadores ao longo do tempo.
 """
 )
-
-#Finalizada
