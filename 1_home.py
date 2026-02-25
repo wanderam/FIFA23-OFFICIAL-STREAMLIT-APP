@@ -3,7 +3,7 @@ import pandas as pd
 import webbrowser
 
 
-#Configurando a página do app
+#Configurando a página do aplicativo
 st.set_page_config(
     page_title='Home',
     page_icon=':house:',
